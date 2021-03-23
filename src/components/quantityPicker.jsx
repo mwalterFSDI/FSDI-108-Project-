@@ -15,6 +15,7 @@ class QuantityPicker extends Component {
     }
     
 
+
     increaseQuantity = () => {
         console.log("button clicked");
         // this.state.quantity = 999; <- DONT modify state directly
